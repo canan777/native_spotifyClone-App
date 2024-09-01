@@ -11,15 +11,15 @@ const ProfileProvider = ({children}) => {
   const getProfileData = async () => {
     const options = {
       method: 'GET',
-      url: 'https://spotify23.p.rapidapi.com/user_profile/',
+      url: '',
       params: {
         id: 'nocopyrightsounds',
         playlistLimit: '10',
         artistLimit: '10'
       },
       headers: {
-        'x-rapidapi-key': '37781a9629mshb2b0eda2ccbb0ebp1ba12ajsn267bb0e69ced',
-        'x-rapidapi-host': 'spotify23.p.rapidapi.com'
+        'x-rapidapi-key': '',
+        'x-rapidapi-host': ''
       }
     };
     try {
