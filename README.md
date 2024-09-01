@@ -24,8 +24,11 @@ Lists the popular albums and artists in Turkey.
 
 🌐Axios : Used to manage API requests.
 🗂️Context API : Used for state management across the app.
+
 🌈Linear Gradient : Used for gradient background effects.
+
 🎨React Native Vector Icons : Used for app icons.
+
 🎚️react-native-track-player : Used for music playback functionality.
 
 ## 🌎 API Usage:
@@ -34,17 +37,17 @@ This project utilizes the 🎧 Spotify and 🎵 Shazam APIs.
 
 ## Libraries:
 
-- @react-navigation/native
-- react-native-screens react-native-safe-area-context
-- @react-navigation/native-stack
-- @react-navigation/bottom-tabs
-- react-native-gesture-handler
-- @react-native-async-storage/async-storage
-- react-native-linear-gradient
-- react-native-app-auth
-- react-native-vector-icons
-- react-native-sound
-- react-native-modals
+🌐 @react-navigation/native
+🌐 react-native-screens react-native-safe-area-context
+🌐react-navigation/native-stack
+🌐 @react-navigation/bottom-tabs
+🌐 react-native-gesture-handler
+🌐 @react-native-async-storage/async-storage
+🌐 react-native-linear-gradient
+🌐 react-native-app-auth
+🌐 react-native-vector-icons
+🌐 react-native-sound
+🌐 react-native-modals
 
 ### spotifyClone-App
 
