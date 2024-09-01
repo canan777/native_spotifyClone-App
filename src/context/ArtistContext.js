@@ -11,7 +11,7 @@ const ArtistsProvider = ({children}) => {
   const getArtists = async () => {
   const options = {
     method: 'GET',
-    url: 'https://spotify23.p.rapidapi.com/search/',
+    url: '',
     params: {
       q: 'Türkiye de popüler ',
       type: 'artists',
@@ -20,8 +20,8 @@ const ArtistsProvider = ({children}) => {
       numberOfTopResults: '5'
     },
     headers: {
-      'x-rapidapi-key': '37781a9629mshb2b0eda2ccbb0ebp1ba12ajsn267bb0e69ced',
-      'x-rapidapi-host': 'spotify23.p.rapidapi.com'
+      'x-rapidapi-key': '',
+      'x-rapidapi-host': ''
     }
   };
 
