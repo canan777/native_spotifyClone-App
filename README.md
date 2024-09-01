@@ -9,14 +9,19 @@
 🎷Popular Albums and Artists :
 Lists the popular albums and artists in Turkey.
 👤User Profile : Displays user profile information and 👥 follower counts.
+
 💿Album and Song Information : Shows album details and 🎵 song information.
+
 🔍Search : Allows users to search for songs and 🎯 list the results.
+
 ▶️Music Playback : Users can listen to their favorite songs and access 🎛️ music playback controls.
 
 ## 🛠 Technologies Used:
 
 📱React Native : Used for mobile app development.
+
 🧭React Navigation : Used for in-app navigation.
+
 🌐Axios : Used to manage API requests.
 🗂️Context API : Used for state management across the app.
 🌈Linear Gradient : Used for gradient background effects.
