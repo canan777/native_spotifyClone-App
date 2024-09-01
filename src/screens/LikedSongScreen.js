@@ -38,7 +38,7 @@ export default function LikedSongScreen() {
     setLoading(true);
     const options = {
       method: 'GET',
-      url: 'https://shazam.p.rapidapi.com/search',
+      url: '',
       params: {
         term: searchText,
         locale: 'tr-TR',
@@ -46,8 +46,8 @@ export default function LikedSongScreen() {
         limit: '5'
       },
       headers: {
-        'x-rapidapi-key': '37781a9629mshb2b0eda2ccbb0ebp1ba12ajsn267bb0e69ced',
-        'x-rapidapi-host': 'shazam.p.rapidapi.com'
+        'x-rapidapi-key': '',
+        'x-rapidapi-host': ''
       }
     };
 
